@@ -1,0 +1,20 @@
+{
+  "name": "Wollo AIS - Accounting Information Systems",
+  "short_name": "Wollo AIS",
+  "id": "et.edu.wu.ais",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0284c7",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "description": "Interactive educational learning platform for Accounting Information Systems (AcFn 4121) at Wollo University.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "books", "productivity"]
+}

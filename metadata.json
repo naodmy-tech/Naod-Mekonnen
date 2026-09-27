@@ -1,0 +1,6 @@
+{
+  "name": "Wollo AIS - Accounting Information Systems",
+  "description": "Educational Android application for Fourth Year Accounting and Finance students at Wollo University, covering course AcFn 4121 with offline materials, quizzes, summaries, and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
